@@ -67,7 +67,7 @@
         <repository>
             <id>leopard-snapshots</id>
             <name>Leopard Snapshots</name>
-            <url>http://leopard.io/nexus/content/repositories/snapshots/</url>
+            <url>https://leopard.io/nexus/content/repositories/snapshots/</url>
         </repository>
     </repositories>
 
